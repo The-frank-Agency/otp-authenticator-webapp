@@ -12,7 +12,7 @@ Hosted at github pages: https://qoomon.github.io/otp-authenticator-webapp/
 Or host it on your onw GitHub account 
 * Just fork this repo and this web app is available at:
   
-  [https://\<USERNAME>.github.io/otp-authenticator-webapp/](https://USERNAME.github.io/otp-authenticator-webapp/)
+  [https://christopherstrom.github.io/otp-authenticator-webapp/](https://christopherstrom.github.io/otp-authenticator-webapp/)
 
 
 ### Features
